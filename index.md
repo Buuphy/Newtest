@@ -11,3 +11,7 @@ var var1 = 1;
 var var2 = 2;
 var sum = var1 + var2;
 ```
+
+- [ ] Task 1
+- [x] Task 2
+- [x] Task 3
